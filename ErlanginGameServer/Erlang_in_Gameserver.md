@@ -135,15 +135,6 @@ f(X) -> ????
 
 [slide]
 
-# 支持组件
----
-* 第三方包源 {:&.moveIn}
-    * GitHub
-    * Hex
-* 构建 {:&.moveIn}
-    * rebar3 (star 507)／rebar (star 897) 规范了Erlang开发
-    * erlang.mk (star 403)
-[slide]
 # 支持组件（续）
 -----
 * 监控 {:&.moveIn}
@@ -153,9 +144,26 @@ f(X) -> ????
     * eunit
     * common test
     * Meck
+* 发布
+    * systools reltool
+    * relx
 
 [slide]
 
+# 支持组件（续）
+---
+* 第三方包源 {:&.moveIn}
+    * GitHub
+    * Hex
+* 构建 {:&.moveIn}
+    * rebar3 (star 507)／rebar (star 897) 规范了Erlang开发
+    * erlang.mk (star 403)
+[slide]
+
+
+# 推荐
+* 《Stuff Goes Bad: Erlang In Anger》
+* 《Making reliable distributed system in the prescence of sodeware errors》
 
 # 大纲（小结）
 -----
