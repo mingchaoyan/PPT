@@ -18,7 +18,7 @@ files: /js/demo.js,/css/demo.css
 * JavaScript（CoffeeScript），Node.js／《谁是卧底OL》／休闲
 * Ruby，RoR／《聚会玩平台管理系统》／ Web 
 * C#，Unity／ ** C，Lua，Skynet **／《消消果缤纷》／三消／弱联网
-* ** C, lua, Skynet **／《针锋相对》／飞行类／强联网同步
+* ** C, Lua, Skynet **／《针锋相对》／飞行类／强联网同步
 
 [slide]
 
